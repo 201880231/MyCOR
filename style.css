@@ -1,0 +1,19 @@
+head, h3,h6{
+    line-height: 0in;
+    text-align: center;
+}
+Head, h2 {
+    text-align: center;
+    letter-spacing: .1in;
+}
+
+table,th{
+    border: 1px solid black;
+    border-collapse: separate;
+    align-self: center;
+}
+img {
+    width: 100px;
+    height: 20;
+    align-self: flex-start;
+}
